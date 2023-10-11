@@ -1,0 +1,8 @@
+.home_container {
+  width: auto;
+  height: 100vh;
+  background-image: url(/src/assets/artur-kechter-gPBiKvpaEi0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
